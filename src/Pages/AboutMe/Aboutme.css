@@ -1,0 +1,29 @@
+.about-me-page{
+    position: relative;
+    width: 100%;
+}
+.about-me-container{
+    text-align: center;
+}
+
+
+.cplusplus{
+    height: 20px;
+    width: 120px;
+    background-color: #4CAF50;
+}
+.php{
+    height: 20px;
+    width: 90px;
+    background-color: rebeccapurple;
+}
+.google{
+    height: 20px;
+    width: 1300px;
+    background-color: yellow;
+}
+.stackoverflow{
+    height: 20px;
+    width: 4000px;
+    background-color: #F48024;
+}

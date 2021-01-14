@@ -1,0 +1,49 @@
+.profile-img {
+
+    width: 100px;
+    pointer-events: none;
+}
+
+.profile-container {
+    width: 200px;
+    text-align: center;
+
+}
+
+.move{
+    animation-name: moveallday;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    transition-duration: 0.5s;
+    transition-timing-function: linear;
+    animation-iteration-count: infinite;
+    left: 45%;
+}
+.wheel-img{
+
+    animation-duration: 1s;
+    animation-iteration-count:infinite;
+    animation-timing-function: linear;
+    width: 100px;
+}
+.wheels{
+    display: flex;
+    justify-content: space-between;
+}
+@keyframes moveallday {
+    0% {
+        left: 0;
+    }
+    100% {
+        left: 92%;
+    }
+}
+
+@keyframes wheel {
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}

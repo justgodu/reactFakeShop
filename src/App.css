@@ -1,0 +1,25 @@
+.dark{
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+}
+
+.light{
+    background-color: white;
+    color: black;
+    min-height: 100vh;
+}
+.dark a{
+    color: white;
+}
+
+.light a{
+    color: black;
+}
+a{
+    text-decoration: none;
+
+}
+a:hover{
+    box-shadow: 1px 1px 10px black;
+}

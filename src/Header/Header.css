@@ -1,0 +1,31 @@
+header{
+    width: 100%;
+    color: white;
+    justify-content: space-between;
+}
+
+.dark header{
+    background-color: #212121;
+}
+.light header{
+    background-color: #cccccc;
+}
+header a{
+    color: white;
+}
+
+nav{
+    margin: auto;
+    max-width: 70%;
+    padding: 20px;
+}
+.routes{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.routes li{
+    text-align: center;
+
+    margin: auto;
+}

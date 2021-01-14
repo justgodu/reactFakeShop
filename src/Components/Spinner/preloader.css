@@ -1,0 +1,11 @@
+.loader_container {
+  height: 100vh;
+}
+
+.loader_style {
+  width: 200px;
+  margin: auto;
+  position: fixed;
+  top: 40%;
+  left: 40%;
+}

@@ -1,0 +1,11 @@
+main{
+    max-width: 1200px;
+    margin: auto;
+}
+.carousel-item{
+    display: flex;
+    flex-direction: column;
+}
+.carousel-product-image{
+    max-width: 80%;
+}
