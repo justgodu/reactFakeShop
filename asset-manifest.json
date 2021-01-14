@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactFakeShop/static/css/main.50935879.chunk.css",
+    "main.js": "/reactFakeShop/static/js/main.3cd5fe25.chunk.js",
+    "main.js.map": "/reactFakeShop/static/js/main.3cd5fe25.chunk.js.map",
+    "runtime-main.js": "/reactFakeShop/static/js/runtime-main.077a77a2.js",
+    "runtime-main.js.map": "/reactFakeShop/static/js/runtime-main.077a77a2.js.map",
+    "static/js/2.a6394df1.chunk.js": "/reactFakeShop/static/js/2.a6394df1.chunk.js",
+    "static/js/2.a6394df1.chunk.js.map": "/reactFakeShop/static/js/2.a6394df1.chunk.js.map",
+    "static/js/3.6a1d15cb.chunk.js": "/reactFakeShop/static/js/3.6a1d15cb.chunk.js",
+    "static/js/3.6a1d15cb.chunk.js.map": "/reactFakeShop/static/js/3.6a1d15cb.chunk.js.map",
+    "index.html": "/reactFakeShop/index.html",
+    "static/css/main.50935879.chunk.css.map": "/reactFakeShop/static/css/main.50935879.chunk.css.map",
+    "static/js/2.a6394df1.chunk.js.LICENSE.txt": "/reactFakeShop/static/js/2.a6394df1.chunk.js.LICENSE.txt",
+    "static/media/car_wheel.02cb40c5.png": "/reactFakeShop/static/media/car_wheel.02cb40c5.png",
+    "static/media/logo.6ce24c58.svg": "/reactFakeShop/static/media/logo.6ce24c58.svg",
+    "static/media/profile-pic.b6ba31f1.jpg": "/reactFakeShop/static/media/profile-pic.b6ba31f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.077a77a2.js",
+    "static/js/2.a6394df1.chunk.js",
+    "static/css/main.50935879.chunk.css",
+    "static/js/main.3cd5fe25.chunk.js"
+  ]
+}
